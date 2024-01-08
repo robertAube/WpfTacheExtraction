@@ -1,0 +1,326 @@
+Logo OmnivoxOmnivox	
+Robert Aubé
+Cégep Limoilou
+Symbole éteindre
+Commentaires
+Symbole éteindre
+Quitter
+Ouvrir un autre scénario
+Sauvegarder
+Imprimer cette page
+Imprimer ce scénario
+Transmettre au Cégep Limoilou
+Rapports
+Répartition approuvée - Dépt Informatique (42000)	
+ 	 	Allocation	 	Distribution	 	Disponible	Cacher le tableau résumé
+ 	 	Aut	Hiv	Total	 	Aut	Hiv	Total	 	Aut	Hiv	Total
+Enseignement	 	
+15.1500
+13.8800
+14.5150
+ 	
+15.8175
+14.8804
+15.3613
+ 	
+-0.6675
+-1.0004
+-0.8463
+Libérations	 	
+1.8500
+1.6500
+1.7500
+ 	
+1.8500
+1.6500
+1.7500
+ 	
+0.0000
+0.0000
+0.0000
+Totaux	 	
+17.0000
+15.5300
+16.2650
+ 	
+17.6675
+16.5304
+17.1113
+ 	
+-0.6675
+-1.0004
+-0.8463
+Congés	 	
+- - -
+- - -
+- - -
+ 	
+0.0000
+1.0000
+0.5000
+ 	
+- - -
+- - -
+- - -
+Congés
+		
+Libérations
+	
+Cours
+	
+Stages
+		
+Répartition
+		
+Enseignants
+		
+Commentaires
+		
+Validation
+	 
+Filtre de visualisation
+Année-session	Discipline	
+
+Automne 2023
+
+Tous
+No du cours
+
+Tous
+Afficher seulement les cours sans assignation
+Visualiser la légende
+   
+Automne 2023
+ 	No groupe	Théo et/ou Lab	Nb estimé d'étudiants	Hrs/Sem	Nb d'heures attribué	Semaine de début	Semaine de fin	Enseignant
+ 
+Discipline CHA-1-420 Techniques de l'informatique
+
+420-005-LI - Micro-informatique de la mécanique du bâtiment (Pondération: 1-2-0, Nb. étudiants: 23)
+ 	L'assignation de ce groupe est terminée.	02001
+Prog. visé 221C0 - 1	 	T/L	23	3	3	1	15	Duguay-Giguère, François (64043)
+ 
+Discipline QUE-1-420 Techniques de l'informatique
+
+420-010-LI - Informatique appliquée à la gestion (Pondération: 1-3-0, Nb. étudiants: 130)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 410B0 - 1	 	T/L	25	4	4	1	15	Cloutier, Guy (63320)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 410B0 - 1	 	T/L	24	4	4	1	15	Cloutier, Guy (63320)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 410B0 - 1	 	T/L	28	4	4	1	15	Cloutier, Guy (63320)
+
+ 	L'assignation de ce groupe est terminée.	00004
+Prog. visé 410B0 - 1	 	T/L	27	4	4	1	15	Cloutier, Guy (63320)
+
+ 	L'assignation de ce groupe est terminée.	00005
+Prog. visé 410B0 - 1	 	T/L	26	4	4	1	15	Cloutier, Guy (63320)
+
+
+420-012-LI - Initiation à la programmation (Pondération: 1-2-0, Nb. étudiants: 20)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 230A0 - 3	 	T/L	20	3	3	1	15	Bourgoin, Mathieu (63731)
+
+
+420-014-LI - Environnements numériques (Pondération: 1-3-0, Nb. étudiants: 25)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 165A0 - 1	 	T/L	25	4	4	1	15	Duguay-Giguère, François (64043)
+
+
+420-104-LI - Analyse de la profession (Pondération: 1-3-0, Nb. étudiants: 88)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B0 - 1	 	T/L	19	4	4	1	15	Camara, Doudou (58005)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B0 - 1	 	T/L	16	4	4	1	15	Camara, Doudou (58005)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 420B0 - 1	 	T/L	16	4	4	1	15	Bricha, Naji (62320)
+
+ 	L'assignation de ce groupe est terminée.	00004
+Prog. visé 420B0 - 1	 	T/L	18	4	4	1	15	Bricha, Naji (62320)
+
+ 	L'assignation de ce groupe est terminée.	00005
+Prog. visé 420B0 - 1	 	T/L	19	4	4	1	15	Bricha, Naji (62320)
+
+
+420-105-LI - Système d'exploitation (Pondération: 1-4-0, Nb. étudiants: 93)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B0 - 1	 	T/L	15	5	5	1	15	Couture, Martin (62984)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B0 - 1	 	T/L	22	5	5	1	15	Couture, Martin (62984)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 420B0 - 1	 	T/L	22	5	5	1	15	Couture, Martin (62984)
+
+ 	L'assignation de ce groupe est terminée.	00004
+Prog. visé 420B0 - 1	 	T/L	16	5	5	1	7	Couture, Martin (62984)
+ 	5	8	15	Camara, Doudou (58005)
+
+ 	L'assignation de ce groupe est terminée.	00005
+Prog. visé 420B0 - 1	 	T/L	18	5	5	1	15	Camara, Doudou (58005)
+
+
+420-126-LI - Programmation orientée objets I (Pondération: 2-4-0, Nb. étudiants: 103)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B0 - 1	 	T/L	18	6	6	1	15	Jarras, Imed (57872)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B0 - 1	 	T/L	21	6	6	1	15	Jarras, Imed (57872)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 420B0 - 1	 	T/L	24	6	6	1	15	Jarras, Imed (57872)
+
+ 	L'assignation de ce groupe est terminée.	00004
+Prog. visé 420B0 - 1	 	T/L	19	6	6	1	15	Brunet, Julien (62868)
+
+ 	L'assignation de ce groupe est terminée.	00005
+Prog. visé 420B0 - 1	 	T/L	21	6	6	1	15	Brunet, Julien (62868)
+
+
+420-134-LI - Interface Web (Pondération: 1-3-0, Nb. étudiants: 97)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B0 - 1	 	T/L	22	4	4	1	15	Boulabiar, Walid (60747)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B0 - 1	 	T/L	21	4	4	1	15	Boulabiar, Walid (60747)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 420B0 - 1	 	T/L	23	4	4	1	15	Boulabiar, Walid (60747)
+
+ 	L'assignation de ce groupe est terminée.	00004
+Prog. visé 420B0 - 1	 	T/L	12	4	4	1	15	Boulabiar, Walid (60747)
+
+ 	L'assignation de ce groupe est terminée.	00005
+Prog. visé 420B0 - 1	 	T/L	19	4	4	1	15	Boulabiar, Walid (60747)
+
+
+420-201-RE - Introduction à la programmation (Pondération: 2-3-0, Nb. étudiants: 47)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 200C0 - 1	 	T/L	17	5	5	1	15	Aubé, Robert (44936)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 200C0 - 1	 	T/L	17	5	5	1	15	Aubé, Robert (44936)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 200C0 - 1	 	T/L	13	5	5	1	15	Aubé, Robert (44936)
+
+
+420-203-RE - Développement de programmes dans un environnement graphique (Pondération: 2-3-0, Nb. étudiants: 32)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 200C0 - 3	 	T/L	17	5	5	1	15	Simoneau-Drolet, Martin (62027)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 200C0 - 3	 	T/L	15	5	5	1	15	Simoneau-Drolet, Martin (62027)
+
+
+420-305-LI - Serveurs I (Pondération: 2-3-0, Nb. étudiants: 68)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B0 - 3	 	T/L	25	5	5	1	15	Dubois, Patrick (61778)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B0 - 3	 	T/L	24	5	5	1	15	Dubois, Patrick (61778)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 420B0 - 3	 	T/L	19	5	5	1	15	Dubois, Patrick (61778)
+
+
+420-355-LI - Programmation Web (Pondération: 2-3-0, Nb. étudiants: 52)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B0 - 3	 	T/L	17	5	5	1	15	Goulet, Jocelyn (50886)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B0 - 3	 	T/L	18	5	5	1	15	Goulet, Jocelyn (50886)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 420B0 - 3	 	T/L	17	5	5	1	15	Goulet, Jocelyn (50886)
+
+
+420-373-LI - Soutien technique et formation (Pondération: 1-2-0, Nb. étudiants: 64)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B0 - 3	 	T/L	25	3	3	1	15	Ouedraogo, Serge (63930)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B0 - 3	 	T/L	21	3	3	1	15	Ouedraogo, Serge (63930)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 420B0 - 3	 	T/L	18	3	3	1	15	Ouedraogo, Serge (63930)
+
+
+420-383-LI - Base de données II (Pondération: 1-2-0, Nb. étudiants: 62)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B0 - 3	 	T/L	23	3	3	1	15	Duguay-Giguère, François (64043)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B0 - 3	 	T/L	25	3	3	1	15	Duguay-Giguère, François (64043)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 420B0 - 3	 	T/L	14	3	3	1	15	Duguay-Giguère, François (64043)
+
+
+420-5B6-LI - Applications monopostes II (Pondération: 2-4-0, Nb. étudiants: 29)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B1 - 5	 	T/L	14	6	6	1	15	Simoneau-Drolet, Martin (62027)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B1 - 5	 	T/L	15	6	6	1	15	Simoneau-Drolet, Martin (62027)
+
+
+420-5C6-LI - Applications Web II (Pondération: 2-4-0, Nb. étudiants: 30)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B1 - 5	 	T/L	14	6	6	1	15	Audet, Dominique (62006)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B1 - 5	 	T/L	16	6	6	1	15	Audet, Dominique (62006)
+
+
+420-5D4-LI - Applications de jeux et simulations I (Pondération: 1-3-0, Nb. étudiants: 30)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B1 - 5	 	T/L	15	4	4	1	15	Caussan, Léo (63979)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B1 - 5	 	T/L	15	4	4	1	15	Caussan, Léo (63979)
+
+
+420-5D5-LI - Préparation de projets et veille technologique pour applicat (Pondération: 1-4-0, Nb. étudiants: 26)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B1 - 5	 	T/L	26	5	5	1	15	Boutin, Michel (63366)
+
+
+420-5E4-LI - Applications mobiles (Pondération: 1-3-0, Nb. étudiants: 27)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B1 - 5	 	T/L	27	4	4	1	15	Bricha, Naji (62320)
+
+
+420-5M6-LI - Sécurité I (Pondération: 2-4-0, Nb. étudiants: 21)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B2 - 5	 	T/L	21	6	6	1	15	Ouedraogo, Serge (63930)
+
+
+420-5N5-LI - Virtualisation (Pondération: 1-4-0, Nb. étudiants: 20)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B2 - 5	 	T/L	20	5	5	1	15	Audet, Dominique (62006)
+
+
+420-5P4-LI - Architecture réseau III (Pondération: 1-3-0, Nb. étudiants: 20)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B2 - 5	 	T/L	20	4	4	1	15	Dubois, Patrick (61778)
+
+
+420-5P5-LI - Technologies de l'Internet (Pondération: 1-4-0, Nb. étudiants: 18)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B2 - 5	 	T/L	18	5	5	1	15	Piette, Mathieu (63311)
+
+
+420-5Q5-LI - Préparation de projets et veille technologique en réseau (Pondération: 1-4-0, Nb. étudiants: 19)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B2 - 5	 	T/L	19	5	5	1	15	Boutin, Michel (63366)
+ 
+Discipline XAD-1-420 Techniques de l'informatique
+ 	Aucun cours-groupe pour cette année-session.
+Légende
+	Le nombre d'heures devant être attribué au groupe n'est pas encore atteint. Vous devez attribuer les heures disponibles à au moins un enseignant. Si vous attribuez plusieurs enseignants à ce cours-groupe, vous pouvez répartir le nombre d'heures à attribuer entre les enseignants.
+	Le nombre d'heures devant être attribué au groupe est atteint. L'attribution de ce cours-groupe est donc complète.
+Envoyer

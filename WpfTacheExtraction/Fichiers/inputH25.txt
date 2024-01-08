@@ -1,0 +1,276 @@
+Logo OmnivoxOmnivox	
+Robert Aubé
+Cégep Limoilou
+Symbole éteindre
+Commentaires
+Symbole éteindre
+Quitter
+Ouvrir un autre scénario
+Sauvegarder
+Imprimer cette page
+Imprimer ce scénario
+Transmettre au Cégep Limoilou
+Rapports
+Répartition approuvée - Dépt Informatique (42000)	
+ 	 	Allocation	 	Distribution	 	Disponible	Cacher le tableau résumé
+ 	 	Aut	Hiv	Total	 	Aut	Hiv	Total	 	Aut	Hiv	Total
+Enseignement	 	
+15.1500
+13.8800
+14.5150
+ 	
+15.8175
+14.8804
+15.3613
+ 	
+-0.6675
+-1.0004
+-0.8463
+Libérations	 	
+1.8500
+1.6500
+1.7500
+ 	
+1.8500
+1.6500
+1.7500
+ 	
+0.0000
+0.0000
+0.0000
+Totaux	 	
+17.0000
+15.5300
+16.2650
+ 	
+17.6675
+16.5304
+17.1113
+ 	
+-0.6675
+-1.0004
+-0.8463
+Congés	 	
+- - -
+- - -
+- - -
+ 	
+0.0000
+1.0000
+0.5000
+ 	
+- - -
+- - -
+- - -
+Congés
+		
+Libérations
+	
+Cours
+	
+Stages
+		
+Répartition
+		
+Enseignants
+		
+Commentaires
+		
+Validation
+	 
+Filtre de visualisation
+Année-session	Discipline	
+
+Hiver 2024
+
+Tous
+No du cours
+
+Tous
+Afficher seulement les cours sans assignation
+Visualiser la légende
+   
+Hiver 2024
+ 	No groupe	Théo et/ou Lab	Nb estimé d'étudiants	Hrs/Sem	Nb d'heures attribué	Semaine de début	Semaine de fin	Enseignant
+ 
+Discipline CHA-1-420 Techniques de l'informatique
+
+420-011-LI - Utilisation de l'informatique (Pondération: 1-2-0, Nb. étudiants: 54)
+ 	L'assignation de ce groupe est terminée.	02001
+Prog. visé 221B0 - 2	 	T/L	18	3	3	1	15	Ouedraogo, Serge (63930)
+
+ 	L'assignation de ce groupe est terminée.	02002
+Prog. visé 221B0 - 2	 	T/L	18	3	3	9	15	Dumais, Corinne (64198)
+ 	3	1	8	Bricha, Naji (62320)
+
+ 	L'assignation de ce groupe est terminée.	02003
+Prog. visé 221B0 - 2	 	T/L	18	3	3	1	15	Dumais, Corinne (64198)
+ 
+Discipline QUE-1-420 Techniques de l'informatique
+
+420-010-LI - Informatique appliquée à la gestion (Pondération: 1-3-0, Nb. étudiants: 20)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 410B0 - 2	 	T/L	20	4	4	1	15	Boulabiar, Walid (60747)
+
+
+420-013-LI - Solutions informatiques orientées géomatique (Pondération: 1-3-0, Nb. étudiants: 18)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 230A0 - 4	 	T/L	18	4	4	1	15	Cloutier, Guy (63320)
+
+
+420-202-RE - Structures de données et programmation orientée objet (Pondération: 2-3-0, Nb. étudiants: 34)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 200C0 - 2	 	T/L	17	5	5	1	15	Aubé, Robert (44936)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 200C0 - 2	 	T/L	17	5	5	1	15	Aubé, Robert (44936)
+
+
+420-204-RE - Projet d'intégration en Sciences informatiques et mathématiq (Pondération: 1-4-0, Nb. étudiants: 25)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 200C0 - 4	 	T/L	25	5	5	1	15	Aubé, Robert (44936)
+
+
+420-205-LI - Architecture réseau I (Pondération: 2-3-0, Nb. étudiants: 92)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B0 - 2	 	T/L	23	5	5	6	15	Dumais, Corinne (64198)
+ 	5	1	5	Goulet, Jocelyn (50886)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B0 - 2	 	T/L	23	5	5	1	15	Jarras, Imed (57872)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 420B0 - 2	 	T/L	23	5	5	1	15	Couture, Martin (62984)
+
+ 	L'assignation de ce groupe est terminée.	00004
+Prog. visé 420B0 - 2	 	T/L	23	5	5	1	15	Couture, Martin (62984)
+
+
+420-243-LI - Développement informatique (Pondération: 1-2-0, Nb. étudiants: 72)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B0 - 2	 	T/L	24	3	3	1	15	Boulabiar, Walid (60747)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B0 - 2	 	T/L	24	3	3	1	15	Boulabiar, Walid (60747)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 420B0 - 2	 	T/L	24	3	3	1	15	Boulabiar, Walid (60747)
+
+
+420-254-LI - Base de données I (Pondération: 1-3-0, Nb. étudiants: 92)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B0 - 2	 	T/L	23	4	4	1	15	Bricha, Naji (62320)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B0 - 2	 	T/L	23	4	4	1	15	Bricha, Naji (62320)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 420B0 - 2	 	T/L	23	4	4	1	15	Bricha, Naji (62320)
+
+ 	L'assignation de ce groupe est terminée.	00004
+Prog. visé 420B0 - 2	 	T/L	23	4	4	1	15	Bricha, Naji (62320)
+
+
+420-266-LI - Programmation orientée objet II (Pondération: 2-4-0, Nb. étudiants: 72)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B0 - 2	 	T/L	24	6	6	1	15	Simoneau-Drolet, Martin (62027)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B0 - 2	 	T/L	24	6	6	1	15	Simoneau-Drolet, Martin (62027)
+
+ 	L'assignation de ce groupe est terminée.	00003
+Prog. visé 420B0 - 2	 	T/L	24	6	6	1	15	Simoneau-Drolet, Martin (62027)
+
+
+420-4A6-LI - Applications monopostes I (Pondération: 2-4-0, Nb. étudiants: 28)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B1 - 4	 	T/L	14	6	6	1	15	Boutin, Michel (63366)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B1 - 4	 	T/L	14	6	6	1	15	Boutin, Michel (63366)
+
+
+420-4B6-LI - Applications Web I (Pondération: 2-4-0, Nb. étudiants: 28)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B1 - 4	 	T/L	14	6	6	1	15	Goulet, Jocelyn (50886)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B1 - 4	 	T/L	14	6	6	1	15	Goulet, Jocelyn (50886)
+
+
+420-4C6-LI - Validation et maintenance des applications (Pondération: 2-4-0, Nb. étudiants: 28)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B1 - 4	 	T/L	14	6	6	1	15	Duguay-Giguère, François (64043)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B1 - 4	 	T/L	14	6	6	1	15	Duguay-Giguère, François (64043)
+
+
+420-4D4-LI - Base de données III (Pondération: 1-3-0, Nb. étudiants: 28)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B1 - 4	 	T/L	14	4	4	1	15	Dubois, Patrick (61778)
+
+ 	L'assignation de ce groupe est terminée.	00002
+Prog. visé 420B1 - 4	 	T/L	14	4	4	1	15	Dubois, Patrick (61778)
+
+
+420-4M6-LI - Serveurs II (Pondération: 2-4-0, Nb. étudiants: 16)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B2 - 4	 	T/L	16	6	6	1	15	Piette, Mathieu (63311)
+
+
+420-4N5-LI - Couches supérieures du modèle OSI (Pondération: 2-3-0, Nb. étudiants: 16)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B2 - 4	 	T/L	16	5	5	1	15	Ouedraogo, Serge (63930)
+
+
+420-4P5-LI - Architecture réseau II (Pondération: 2-3-0, Nb. étudiants: 16)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B2 - 4	 	T/L	16	5	5	1	15	Audet, Dominique (62006)
+
+
+420-4Q5-LI - Automatisation des tâches (Pondération: 2-3-0, Nb. étudiants: 16)
+ 	L'assignation de ce groupe est terminée.	00001
+Prog. visé 420B2 - 4	 	T/L	16	5	5	1	15	Duguay-Giguère, François (64043)
+
+
+420-6A5-LI - Applications pour objets connectés (Pondération: 1-4-0, Nb. étudiants: 25)
+ 	L'assignation de ce groupe est terminée.	00701
+Prog. visé 420B1 - 6	 	T/L	25	5	5	1	15	Couture, Martin (62984)
+
+
+420-6B6-LI - Sécurité des applications (Pondération: 2-4-0, Nb. étudiants: 25)
+ 	L'assignation de ce groupe est terminée.	00701
+Prog. visé 420B1 - 6	 	T/L	25	6	6	1	15	Dubois, Patrick (61778)
+
+
+420-6C5-LI - Applications de jeux et simulations II (Pondération: 1-4-0, Nb. étudiants: 25)
+ 	L'assignation de ce groupe est terminée.	00701
+Prog. visé 420B1 - 6	 	T/L	25	5	5	1	15	Brunet, Julien (62868)
+
+
+420-6D9-LI - Projet : développement d'applications (Pondération: 1-8-0, Nb. étudiants: 25)
+ 	L'assignation de ce groupe est terminée.	00701
+Prog. visé 420B1 - 6	 	T/L	25	9	9	1	15	Jarras, Imed (57872)
+
+
+420-6M6-LI - Sécurité II (Pondération: 2-4-0, Nb. étudiants: 18)
+ 	L'assignation de ce groupe est terminée.	00701
+Prog. visé 420B2 - 6	 	T/L	18	6	6	1	15	Cloutier, Guy (63320)
+
+
+420-6P6-LI - Validation et maintenance du réseau (Pondération: 2-4-0, Nb. étudiants: 18)
+ 	L'assignation de ce groupe est terminée.	00701
+Prog. visé 420B2 - 6	 	T/L	18	6	6	1	15	Ouedraogo, Serge (63930)
+
+
+420-6P9-LI - Projet : gestion de réseaux (Pondération: 1-8-0, Nb. étudiants: 18)
+ 	L'assignation de ce groupe est terminée.	00701
+Prog. visé 420B2 - 6	 	T/L	18	9	9	1	15	Audet, Dominique (62006)
+ 
+Discipline XAD-1-420 Techniques de l'informatique
+ 	Aucun cours-groupe pour cette année-session.
+Légende
+	Le nombre d'heures devant être attribué au groupe n'est pas encore atteint. Vous devez attribuer les heures disponibles à au moins un enseignant. Si vous attribuez plusieurs enseignants à ce cours-groupe, vous pouvez répartir le nombre d'heures à attribuer entre les enseignants.
+	Le nombre d'heures devant être attribué au groupe est atteint. L'attribution de ce cours-groupe est donc complète.
+Envoyer
