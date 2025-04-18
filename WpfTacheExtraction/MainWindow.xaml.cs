@@ -18,14 +18,24 @@ namespace WpfTacheExtraction {
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window {
-        private readonly string DEF_inputFileATxt = @"D:\c#\projetPerso\WpfTacheExtraction\WpfTacheExtraction\Fichiers\inputA24.txt";
-        private readonly string DEF_inputFileHTxt = @"D:\c#\projetPerso\WpfTacheExtraction\WpfTacheExtraction\Fichiers\inputH25.txt";
-        private readonly string DEF_outFileTxt = @"D:\c#\projetPerso\WpfTacheExtraction\WpfTacheExtraction\Fichiers\ouputA24H25.txt";
+        private string DEF_inputFileATxt = @"_fichiers\Cours_A25.txt";
+        private string DEF_inputFileHTxt = @"_fichiers\Cours_H26.txt";
+        private string DEF_outFileTxt = @"_fichiers\ouputA25H26.txt";
 
         public MainWindow() {
             InitializeComponent();
+            initRep();
             extraire();
             Application.Current.Shutdown();
+        }
+
+        private void initRep()
+        {
+            string? projetctPath = Util.GetProjectPath() + System.IO.Path.DirectorySeparatorChar;
+
+            DEF_inputFileATxt = projetctPath + DEF_inputFileATxt;
+            DEF_inputFileHTxt = projetctPath + DEF_inputFileHTxt;
+            DEF_outFileTxt = projetctPath + DEF_outFileTxt;
         }
 
         private void extraire() {

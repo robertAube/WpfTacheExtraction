@@ -1,0 +1,248 @@
+Logo OmnivoxOmnivox	
+Mathieu Piette
+Cégep Limoilou
+	
+Symbole éteindre
+Commentaires
+	
+Symbole éteindre
+Quitter
+Ouvrir un autre scénario
+	
+Sauvegarder
+	
+Imprimer cette page
+	
+Imprimer ce scénario
+	
+Transmettre au Cégep Limoilou
+	
+Rapports
+		
+Répartition approuvée - Dépt Informatique (42000)	
+ 	 	Allocation	 	Distribution	 	Disponible	Cacher le tableau résumé
+ 	 	Aut	Hiv	Total	 	Aut	Hiv	Total	 	Aut	Hiv	Total
+Enseignement	 	
+0.0000
+	
+0.0000
+	
+0.0000
+	 	
+13.0000
+	
+13.0000
+	
+13.0000
+	 	
+-13.0000
+	
+-13.0000
+	
+-13.0000
+Libérations	 	
+0.0000
+	
+0.0000
+	
+0.0000
+	 	
+0.0000
+	
+0.0000
+	
+0.0000
+	 	
+0.0000
+	
+0.0000
+	
+0.0000
+Totaux	 	
+0.0000
+	
+0.0000
+	
+0.0000
+	 	
+13.0000
+	
+13.0000
+	
+13.0000
+	 	
+-13.0000
+	
+-13.0000
+	
+-13.0000
+Congés	 	
+- - -
+	
+- - -
+	
+- - -
+	 	
+0.0000
+	
+0.0000
+	
+0.0000
+	 	
+- - -
+	
+- - -
+	
+- - -
+Congés
+			
+Libérations
+		
+Cours
+		
+Stages
+			
+Répartition
+			
+Enseignants
+			
+Commentaires
+			
+Validation
+		 
+Filtre de visualisation
+Année-session 	Discipline 	
+No du cours
+Afficher seulement les cours sans assignation
+	
+Visualiser la légende
+Automne 2025
+ 	No groupe	Théo et/ou Lab	Nb estimé d'étudiants	Hrs/Sem	Nb d'heures attribué	Semaine de début	Semaine de fin	Enseignant
+ 
+Discipline CHA-1-420 Techniques de l'informatique
+420-005-LI - Micro-informatique de la mécanique du bâtiment (Pondération: 1-2-0, Nb. étudiants: 20)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	02001
+Prog. visé 221C0 - 1	 	T/L	20	3	3	1	15	Aucun enseignant assigné
+ 
+Discipline QUE-1-420 Techniques de l'informatique
+420-012-LI - Initiation à la programmation (Pondération: 1-2-0, Nb. étudiants: 20)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 230A0 - 3	 	T/L	20	3	3	1	15	Aucun enseignant assigné
+420-014-LI - Environnements numériques (Pondération: 1-3-0, Nb. étudiants: 36)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 165A0 - 1	 	T/L	18	4	4	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 165A0 - 1	 	T/L	18	4	4	1	15	Aucun enseignant assigné
+420-104-LI - Analyse de la profession (Pondération: 1-3-0, Nb. étudiants: 72)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B0 - 1	 	T/L	24	4	4	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B0 - 1	 	T/L	24	4	4	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00003
+Prog. visé 420B0 - 1	 	T/L	24	4	4	1	15	Aucun enseignant assigné
+420-105-LI - Système d'exploitation (Pondération: 1-4-0, Nb. étudiants: 72)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B0 - 1	 	T/L	24	5	5	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B0 - 1	 	T/L	24	5	5	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00003
+Prog. visé 420B0 - 1	 	T/L	24	5	5	1	15	Aucun enseignant assigné
+420-126-LI - Programmation orientée objets I (Pondération: 2-4-0, Nb. étudiants: 72)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B0 - 1	 	T/L	24	6	6	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B0 - 1	 	T/L	24	6	6	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00003
+Prog. visé 420B0 - 1	 	T/L	24	6	6	1	15	Aucun enseignant assigné
+420-134-LI - Interface Web (Pondération: 1-3-0, Nb. étudiants: 72)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B0 - 1	 	T/L	24	4	4	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B0 - 1	 	T/L	24	4	4	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00003
+Prog. visé 420B0 - 1	 	T/L	24	4	4	1	15	Aucun enseignant assigné
+420-305-LI - Serveurs I (Pondération: 2-3-0, Nb. étudiants: 57)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B0 - 3	 	T/L	19	5	5	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B0 - 3	 	T/L	19	5	5	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00003
+Prog. visé 420B0 - 3	 	T/L	19	5	5	1	15	Aucun enseignant assigné
+420-355-LI - Programmation Web (Pondération: 2-3-0, Nb. étudiants: 57)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B0 - 3	 	T/L	19	5	5	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B0 - 3	 	T/L	19	5	5	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00003
+Prog. visé 420B0 - 3	 	T/L	19	5	5	1	15	Aucun enseignant assigné
+420-373-LI - Soutien technique et formation (Pondération: 1-2-0, Nb. étudiants: 57)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B0 - 3	 	T/L	19	3	3	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B0 - 3	 	T/L	19	3	3	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00003
+Prog. visé 420B0 - 3	 	T/L	19	3	3	1	15	Aucun enseignant assigné
+420-383-LI - Base de données II (Pondération: 1-2-0, Nb. étudiants: 57)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B0 - 3	 	T/L	19	3	3	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B0 - 3	 	T/L	19	3	3	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00003
+Prog. visé 420B0 - 3	 	T/L	19	3	3	1	15	Aucun enseignant assigné
+420-5B6-LI - Applications monopostes II (Pondération: 2-4-0, Nb. étudiants: 30)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B1 - 5	 	T/L	15	6	6	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B1 - 5	 	T/L	15	6	6	1	15	Aucun enseignant assigné
+420-5C6-LI - Applications Web II (Pondération: 2-4-0, Nb. étudiants: 30)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B1 - 5	 	T/L	15	6	6	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B1 - 5	 	T/L	15	6	6	1	15	Aucun enseignant assigné
+420-5D4-LI - Applications de jeux et simulations I (Pondération: 1-3-0, Nb. étudiants: 30)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B1 - 5	 	T/L	15	4	4	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B1 - 5	 	T/L	15	4	4	1	15	Aucun enseignant assigné
+420-5D5-LI - Préparation de projets et veille technologique pour applicat (Pondération: 1-4-0, Nb. étudiants: 30)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B1 - 5	 	T/L	15	5	5	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B1 - 5	 	T/L	15	5	5	1	15	Aucun enseignant assigné
+420-5E4-LI - Applications mobiles (Pondération: 1-3-0, Nb. étudiants: 30)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B1 - 5	 	T/L	15	4	4	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 420B1 - 5	 	T/L	15	4	4	1	15	Aucun enseignant assigné
+420-5M6-LI - Sécurité I (Pondération: 2-4-0, Nb. étudiants: 18)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B2 - 5	 	T/L	18	6	6	1	15	Aucun enseignant assigné
+420-5N5-LI - Virtualisation (Pondération: 1-4-0, Nb. étudiants: 18)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B2 - 5	 	T/L	18	5	5	1	15	Aucun enseignant assigné
+420-5P4-LI - Architecture réseau III (Pondération: 1-3-0, Nb. étudiants: 18)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B2 - 5	 	T/L	18	4	4	1	15	Aucun enseignant assigné
+420-5P5-LI - Technologies de l'Internet (Pondération: 1-4-0, Nb. étudiants: 18)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B2 - 5	 	T/L	18	5	5	1	15	Aucun enseignant assigné
+420-5Q5-LI - Préparation de projets et veille technologique en réseau (Pondération: 1-4-0, Nb. étudiants: 18)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 420B2 - 5	 	T/L	18	5	5	1	15	Aucun enseignant assigné
+420-SF1-RE - Introduction à la programmation (Pondération: 2-3-0, Nb. étudiants: 40)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 200C1 - 1	 	T/L	20	5	5	1	15	Aucun enseignant assigné
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00002
+Prog. visé 200C1 - 1	 	T/L	20	5	5	1	15	Aucun enseignant assigné
+420-SF3-RE - Développement d'applications dans un environnement graphique (Pondération: 2-3-0, Nb. étudiants: 20)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 200C1 - 3	 	T/L	20	5	5	1	15	Aucun enseignant assigné
+420-SN1-RE - Programmation en sciences (Pondération: 1-2-0, Nb. étudiants: 20)
+ 	[L'assignation de ce cours-groupe n'est pas complétée.] 	00001
+Prog. visé 200B1 - 4	 	T/L	20	3	3	1	15	Aucun enseignant assigné
+ 
+Discipline XAD-1-420 Techniques de l'informatique
+ 	Aucun cours-groupe pour cette année-session.
+Légende
+	Le nombre d'heures devant être attribué au groupe n'est pas encore atteint. Vous devez attribuer les heures disponibles à au moins un enseignant. Si vous attribuez plusieurs enseignants à ce cours-groupe, vous pouvez répartir le nombre d'heures à attribuer entre les enseignants.
+	Le nombre d'heures devant être attribué au groupe est atteint. L'attribution de ce cours-groupe est donc complète.
