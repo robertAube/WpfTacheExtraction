@@ -19,8 +19,8 @@ namespace WpfTacheExtraction {
     /// </summary>
     public partial class MainWindow : Window {
         private string DEF_inputFileATxt = @"_fichiers\Cours_A25.txt";
-        private string DEF_inputFileHTxt = @"_fichiers\Cours_H26.txt";
-        private string DEF_outFileTxt = @"_fichiers\ouputA25H26.txt";
+        private string DEF_inputFileHTxt = @"_fichiers\Cours_H26VB.txt";
+        private string DEF_outFileTxt = @"_fichiers\ouputA25H26VB.txt";
 
         public MainWindow() {
             InitializeComponent();
