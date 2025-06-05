@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Windows.Shapes;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace WpfTacheExtraction
+namespace WpfTacheExtraction.scripts
 {
     internal class Extracteur
     {
@@ -72,7 +72,8 @@ namespace WpfTacheExtraction
                             {
                                 nbGroupe++;
                             }
-                            if (!ligne.StartsWith(commenceAvecPgm) && !Regex.IsMatch(ligne, regex_commenceAvecSession) && !Regex.IsMatch(ligne, regex_commenceAvecCampus)) {
+                            if (!ligne.StartsWith(commenceAvecPgm) && !Regex.IsMatch(ligne, regex_commenceAvecSession) && !Regex.IsMatch(ligne, regex_commenceAvecCampus))
+                            {
                                 i++;
                             }
                         } while (i < listLignes.Count && !ligne.StartsWith(commenceAvecPgm) && !Regex.IsMatch(ligne, regex_commenceAvecSession) && !Regex.IsMatch(ligne, regex_commenceAvecCampus));

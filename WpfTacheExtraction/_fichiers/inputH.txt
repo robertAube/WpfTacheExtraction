@@ -1,0 +1,297 @@
+Logo OmnivoxOmnivox	
+Mathieu Piette
+Cégep Limoilou
+	
+Symbole éteindre
+Commentaires
+	
+Symbole éteindre
+Quitter
+Ouvrir un autre scénario
+	
+Sauvegarder
+	
+Imprimer cette page
+	
+Imprimer ce scénario
+	
+Transmettre au Cégep Limoilou
+	
+Rapports
+		
+Scénario # 3 - Dépt Informatique (42000)	
+ 	 	Allocation	 	Distribution	 	Disponible	Cacher le tableau résumé
+ 	 	Aut	Hiv	Total	 	Aut	Hiv	Total	 	Aut	Hiv	Total
+Enseignement	 	
+14.5000
+	
+14.2900
+	
+14.3950
+	 	
+14.7805
+	
+13.8932
+	
+14.3368
+	 	
+-0.2805
+	
+0.3968
+	
+0.0582
+Libérations	 	
+1.5000
+	
+1.1000
+	
+1.3000
+	 	
+1.5000
+	
+1.1000
+	
+1.3000
+	 	
+0.0000
+	
+0.0000
+	
+0.0000
+Totaux	 	
+16.0000
+	
+15.3900
+	
+15.6950
+	 	
+16.2805
+	
+14.9932
+	
+15.6368
+	 	
+-0.2805
+	
+0.3968
+	
+0.0582
+Congés	 	
+- - -
+	
+- - -
+	
+- - -
+	 	
+0.0000
+	
+0.0000
+	
+0.0000
+	 	
+- - -
+	
+- - -
+	
+- - -
+	
+Par où commencer
+			
+Congés
+			
+Libérations
+		
+Cours
+		
+Stages
+			
+Répartition
+			
+Enseignants
+			
+Commentaires
+			
+Validation
+		 
+Permet de rafraîchir la page et de calculer à nouveau tous les champs nécessaires en fonction des nouvelles données entrées.Recalculer
+Filtre de visualisation
+Année-session 	Discipline 	
+No du cours
+Afficher seulement les cours sans assignation
+	
+Visualiser la légende
+Hiver 2026
+ 	No groupe	Théo et/ou Lab	Nb estimé d'étudiants	Hrs/Sem	Nb d'heures attribué	Semaine de début	Semaine de fin	Enseignant	Options avancées
+ 
+Discipline CHA-1-420 Techniques de l'informatique
+420-011-LI - Utilisation de l'informatique (Pondération: 1-2-0, Nb. étudiants: 44)
+ 	[L'assignation de ce groupe est terminée.] 	02001
+Prog. visé 221B0 - 2	 	T/L	22	3	3	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	02002
+Prog. visé 221B0 - 2	 	T/L	22	3				
+Avancées [Retirer l'affectation de l'enseignant au groupe. Dans le cas où vous désirez supprimer l'affectation de l'enseignant pour un cours-groupe, appuyez sur l'icône à la droite de l'enseignant correspondant.] [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 				
+Avancées [Retirer l'affectation de l'enseignant au groupe. Dans le cas où vous désirez supprimer l'affectation de l'enseignant pour un cours-groupe, appuyez sur l'icône à la droite de l'enseignant correspondant.]
+420-SN1-RE - Programmation en sciences (Pondération: 1-2-0, Nb. étudiants: 42)
+ 	[L'assignation de ce groupe est terminée.] 	02001
+Prog. visé 200B1 - 4	 	T/L	21	3	3	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	02002
+Prog. visé 200B1 - 4	 	T/L	21	3	3	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 
+Discipline QUE-1-420 Techniques de l'informatique
+420-013-LI - Solutions informatiques orientées géomatique (Pondération: 1-3-0, Nb. étudiants: 16)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 230A0 - 4	 	T/L	16	4	4	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-205-LI - Architecture réseau I (Pondération: 2-3-0, Nb. étudiants: 78)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 420B0 - 2	 	T/L	26	5	5	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00002
+Prog. visé 420B0 - 2	 	T/L	26	5	5	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00003
+Prog. visé 420B0 - 2	 	T/L	26	5	5	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-243-LI - Développement informatique (Pondération: 1-2-0, Nb. étudiants: 78)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 420B0 - 2	 	T/L	26	3	3	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00002
+Prog. visé 420B0 - 2	 	T/L	26	3	3	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00003
+Prog. visé 420B0 - 2	 	T/L	26	3	3	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-254-LI - Base de données I (Pondération: 1-3-0, Nb. étudiants: 78)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 420B0 - 2	 	T/L	26	4	4	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00002
+Prog. visé 420B0 - 2	 	T/L	26	4	4	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00003
+Prog. visé 420B0 - 2	 	T/L	26	4	4	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-266-LI - Programmation orientée objet II (Pondération: 2-4-0, Nb. étudiants: 78)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 420B0 - 2	 	T/L	26	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00002
+Prog. visé 420B0 - 2	 	T/L	26	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00003
+Prog. visé 420B0 - 2	 	T/L	26	6				
+Avancées [Retirer l'affectation de l'enseignant au groupe. Dans le cas où vous désirez supprimer l'affectation de l'enseignant pour un cours-groupe, appuyez sur l'icône à la droite de l'enseignant correspondant.] [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 				
+Avancées [Retirer l'affectation de l'enseignant au groupe. Dans le cas où vous désirez supprimer l'affectation de l'enseignant pour un cours-groupe, appuyez sur l'icône à la droite de l'enseignant correspondant.]
+420-4A6-LI - Applications monopostes I (Pondération: 2-4-0, Nb. étudiants: 35)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 420B1 - 4	 	T/L	18	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00002
+Prog. visé 420B1 - 4	 	T/L	17	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-4B6-LI - Applications Web I (Pondération: 2-4-0, Nb. étudiants: 35)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 420B1 - 4	 	T/L	18	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00002
+Prog. visé 420B1 - 4	 	T/L	17	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-4C6-LI - Validation et maintenance des applications (Pondération: 2-4-0, Nb. étudiants: 35)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 420B1 - 4	 	T/L	18	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00002
+Prog. visé 420B1 - 4	 	T/L	17	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-4D4-LI - Base de données III (Pondération: 1-3-0, Nb. étudiants: 35)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 420B1 - 4	 	T/L	18	4	4	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00002
+Prog. visé 420B1 - 4	 	T/L	17	4	4	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-4M6-LI - Serveurs II (Pondération: 2-4-0, Nb. étudiants: 22)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 420B2 - 4	 	T/L	22	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-4N5-LI - Couches supérieures du modèle OSI (Pondération: 2-3-0, Nb. étudiants: 22)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 420B2 - 4	 	T/L	22	5	5	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-4P5-LI - Architecture réseau II (Pondération: 2-3-0, Nb. étudiants: 22)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 420B2 - 4	 	T/L	22	5	5	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-4Q5-LI - Automatisation des tâches (Pondération: 2-3-0, Nb. étudiants: 22)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 420B2 - 4	 	T/L	22	5	5	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-6A5-LI - Applications pour objets connectés (Pondération: 1-4-0, Nb. étudiants: 29)
+ 	[L'assignation de ce groupe est terminée.] 	00701
+Prog. visé 420B1 - 6	 	T/L	15	5	5	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00702
+Prog. visé 420B1 - 6	 	T/L	14	5	5	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-6B6-LI - Sécurité des applications (Pondération: 2-4-0, Nb. étudiants: 29)
+ 	[L'assignation de ce groupe est terminée.] 	00701
+Prog. visé 420B1 - 6	 	T/L	15	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00702
+Prog. visé 420B1 - 6	 	T/L	14	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-6C5-LI - Applications de jeux et simulations II (Pondération: 1-4-0, Nb. étudiants: 29)
+ 	[L'assignation de ce groupe est terminée.] 	00701
+Prog. visé 420B1 - 6	 	T/L	15	5	5	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00702
+Prog. visé 420B1 - 6	 	T/L	14	5	5	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-6D9-LI - Projet : développement d'applications (Pondération: 1-8-0, Nb. étudiants: 29)
+ 	[L'assignation de ce groupe est terminée.] 	00701
+Prog. visé 420B1 - 6	 	T/L	15	9	9	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00702
+Prog. visé 420B1 - 6	 	T/L	14	9	9	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-6M6-LI - Sécurité II (Pondération: 2-4-0, Nb. étudiants: 16)
+ 	[L'assignation de ce groupe est terminée.] 	00701
+Prog. visé 420B2 - 6	 	T/L	16	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-6P6-LI - Validation et maintenance du réseau (Pondération: 2-4-0, Nb. étudiants: 16)
+ 	[L'assignation de ce groupe est terminée.] 	00701
+Prog. visé 420B2 - 6	 	T/L	16	6	6	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-6P9-LI - Projet : gestion de réseaux (Pondération: 1-8-0, Nb. étudiants: 16)
+ 	[L'assignation de ce groupe est terminée.] 	00701
+Prog. visé 420B2 - 6	 	T/L	16	9	9	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-SF2-RE - Structure de données et programmation orientée objet (Pondération: 2-3-0, Nb. étudiants: 25)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 200C1 - 2	 	T/L	25	5	5	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-SF4-RE - Projet d'intégration en Sciences, informatique et mathématiq (Pondération: 1-4-0, Nb. étudiants: 20)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 200C1 - 4	 	T/L	20	5	5	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+420-SN1-RE - Programmation en sciences (Pondération: 1-2-0, Nb. étudiants: 40)
+ 	[L'assignation de ce groupe est terminée.] 	00001
+Prog. visé 200B1 - 4	 	T/L	20	3	3	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 	[L'assignation de ce groupe est terminée.] 	00002
+Prog. visé 200B1 - 4	 	T/L	20	3	3	1	15	
+Avancées [Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.] [Ajouter un commentaire]
+ 
+Discipline XAD-1-420 Techniques de l'informatique
+ 	Aucun cours-groupe pour cette année-session.
+Légende
+	Le nombre d'heures devant être attribué au groupe n'est pas encore atteint. Vous devez attribuer les heures disponibles à au moins un enseignant. Si vous attribuez plusieurs enseignants à ce cours-groupe, vous pouvez répartir le nombre d'heures à attribuer entre les enseignants.
+	Le nombre d'heures devant être attribué au groupe est atteint. L'attribution de ce cours-groupe est donc complète.
+	Affecter un enseignant supplémentaire au groupe. Dans le cas où plusieurs enseignants enseignent à un même groupe, utilisez cette icône pour ajouter un enseignant au groupe. Assignez-lui ensuite des heures de cours.
+	Retirer l'affectation de l'enseignant au groupe. Dans le cas où vous désirez supprimer l'affectation de l'enseignant pour un cours-groupe, appuyez sur l'icône à la droite de l'enseignant correspondant.
