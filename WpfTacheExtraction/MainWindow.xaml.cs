@@ -55,7 +55,7 @@ namespace WpfTacheExtraction
         {
             string prefix;
 
-            prefix = tachePath + pathSep + tacheID + dateDuJour;
+            prefix = tachePath + pathSep + tacheID + dateDuJour + '_';
             File.Copy(inputFileAPath, prefix + inputTxtNameA, true);  // Copie le fichier (écrase s’il existe déjà)
             File.Copy(inputFileHPath, prefix + inputTxtNameH, true);  // Copie le fichier (écrase s’il existe déjà)
         }
